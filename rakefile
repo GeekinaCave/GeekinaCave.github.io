@@ -1,0 +1,8 @@
+require "rubygems"
+
+ desc "Probando Jekyll Local con Borradores"
+ task :test do
+  puts "## --- Ejecutando \"jekyll serve\" ---"
+  puts "## --- Habilitando opcion Borradores \(--drafts\) ---"
+  system "jekyll serve --config _config.dev.yml --drafts"
+ end
