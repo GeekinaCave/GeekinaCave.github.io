@@ -5,8 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: //geekinacave.github.io
-baseurl: /geekinacave.github.io
+url: //geekinacave.github.io/geekinacave.github.io
 
 # Jekyll configuration
 
